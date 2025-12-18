@@ -58,7 +58,7 @@
             "name": "Build Directory",
             "description": "Here you can enter the path where your appaltion is located, this again involves moving folders to the root folder",
             "env_variable": "BUILD_DIR",
-            "default_value": "\\/home\\/container",
+            "default_value": "/home/container",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|string",
