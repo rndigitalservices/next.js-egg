@@ -36,10 +36,9 @@ template for hosting production-grade Next.js applications.
 2. Click **Import** and choose:
    - **From file**: select the JSON from the `pelican/` folder in this repo; or
    - **From URL**: paste the raw URL to the JSON file hosted from this repo.
-3. Assign the egg to the desired Nest.
-4. Create a new server and select the imported Next.js egg.
-5. Point the server to your Next.js project files (Git repo or uploaded files).
-6. Start the server; Pelican will install dependencies and run the app.
+3. Create a new server and select the imported Next.js egg.
+4. Point the server to your Next.js project files (Git repo or uploaded files).
+5. Start the server; Pelican will install dependencies and run the app.
 
 ## How to use (Pterodactyl)
 
